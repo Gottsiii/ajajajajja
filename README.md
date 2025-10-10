@@ -79,3 +79,4 @@ Tareas:
 Realizar pruebas de integración y de usabilidad.
 Corregir errores detectados.
 Documentación y preparación para el despliegue.
+Esta linea fue añadida en la rama feature
